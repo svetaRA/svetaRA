@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @svetaRA
+- 👀 I’m interested in learning new technologies 
+- 🌱 I’m currently learning AWS orchestrating 
+- 💞️ I’m looking to collaborate on data science and AI based tools
+-
